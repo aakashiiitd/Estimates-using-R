@@ -1,0 +1,35 @@
+MTH 372: Assignment I
+Instructor: Monika Arora
+
+Instructions
+• Use statistical software R for your codes and only basic in built functions are
+allowed.
+• Due date is February 9, 2020 (6 p.m.). No late assignments will be accepted.
+• Submit all of your work which include the report, codes, results and graphs.
+• Follow the labelling method for your files.
+
+1. (10 points) Generate a random sample of size 1000 from standard normal distri-
+bution.
+
+(a) Calculate the estimate of the unknown parameters using method of moments
+in R.
+(b) Find the maximum likelihood estimate of the unknown parameters in R.
+(c) Taking variance constant and equal to 1, plot the log likelihood for various
+values of mean.
+(d) Plot log likelihood functions for various values of mean and variance.
+
+2. (5 points) The following data are the smiling times of a baby (in seconds). Assume
+that the smiling times follow Uniform (0, θ).
+10.4, 19.6, 18.8, 13.9, 17.8, 16.8, 21.6, 17.9,12.5, 11.1, 4.9, 12.8, 14.8, 22.8, 20.0,
+15.9,16.3, 13.4,17.1,14.5, 19.0, 22.8, 1.3, 0.7, 8.9, 11.9, 10.9, 7.3, 5.9, 3.7, 17.9, 19.2,
+9.8, 5.8, 6.9, 2.6, 5.8, 21.7, 11.8, 3.4, 2.1, 4.5, 6.3, 10.7, 8.9, 9.4, 9.4, 7.6, 10.0, 3.3,
+6.7, 7.8, 11.6, 13.8, 18.6
+(a) Based on the data, what will be the maximum likelihood estimate.
+(b) Show graphically that the likelihood function attains maxima at the above
+estimate.
+
+3. (5 points) Generate a random sample of size 1000 from Geometric (p = 0.6).
+(a) Find the maximum likelihood estimate of the unknown parameter in R. Also
+mention the log likelihood of the corresponding estimate.
+(b) Show graphically your results in the above part. For that, plot log likelihood
+functions for various values of p.
